@@ -6,7 +6,7 @@ Within the code, the user is able to change the model to:
 - A duck
 - A flight helmet
 - A fox
-The user is also able to change the model's file format within the code:
+<br> The user is also able to change the model's file format within the code:
 - GLTF (default)
 - GLTF-Binary
 - GLTF-Draco
